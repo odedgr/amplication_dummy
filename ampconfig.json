@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "My app",
+    "description": "Dummy Test",
+    "version": "iyz7346r",
+    "id": "ckzglyrb6155413301s6k5it732s",
+    "url": "https://app.amplication.com/ckzglyrb6155413301s6k5it732s",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "dummy",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckzglyrb6155413301s6k5it732s",
+      "authProvider": "Http"
+    }
+  }
+}
